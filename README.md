@@ -23,7 +23,7 @@
   git clone https://github.com/pojokcode/nvim-production ~/.config/nvim
   ```
   
-  ##Panduan Setup Languae
+  ## Panduan Setup Languae
   - https://youtube.com/playlist?list=PLhzwHCJWMbnvhPy0wqZGVBRUEAgS93iuk
  
 
