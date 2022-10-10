@@ -3,9 +3,7 @@
 1. Download dan Install Neovim (https://github.com/neovim/neovim/releases) atau download dari link berikut (https://sourceforge.net/projects/neovim.mirror/files/)
 2. Install Git Download Dari link berikut (https://git-scm.com/download/win)
 3. Install Node Js, Download Dari Link Berikut (https://nodejs.org/en/)
-4. Install C atau C++ Compiler (https://sourceforge.net/projects/mingw-w64/files/)
-  ###panduan instalasi sihakancek youtube
-  https://youtu.be/6Z2aXiADa0c
+4. Install C atau C++ Compiler (https://sourceforge.net/projects/mingw-w64/files/) panduan instalasi sihakan cek youtube https://youtu.be/6Z2aXiADa0c
 5. Import Config Windows
   ```
   git clone https://github.com/pojokcode/nvim-production ~/AppData/Local/nvim
