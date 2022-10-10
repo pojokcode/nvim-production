@@ -1,4 +1,4 @@
-# Panduan Intall Dan Konfigurasi NeoVim
+# Panduan Install Dan Konfigurasi NeoVim
 ## Panduan Windows
 1. Download dan Install Neovim (https://github.com/neovim/neovim/releases) atau download dari link berikut (https://sourceforge.net/projects/neovim.mirror/files/)
 2. Install Git Download Dari link berikut (https://git-scm.com/download/win)
