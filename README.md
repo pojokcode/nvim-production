@@ -7,8 +7,7 @@
 - panduan instalasi sihakan cek youtube https://youtu.be/6Z2aXiADa0c
 5. Import Config Windows
   ```
-  git clone https://github.com/pojokcode/nvim-production ~/AppData/Local/nvim
-  ```
+  git clone https://github.com/pojokcode/nvim-production "$env:LOCALAPPDATA\nvim"
   
  ## Panduan Linux
  1. Instalasi
